@@ -1,3 +1,7 @@
-Trying out python to make a self running Battleship game with the use of bots. One bot that's not so smart, and one that is a little bit smarter. 
+# Battleship Game
 
-Might add to this later so it doesn't only run in the terminal and also add choice of playing yourself versus bots or versus another player locally. 
+This is a simple Battleship game developed during winter break. 
+
+It's a terminal-based game where two bots face off, each with its own strategy. Can adjust the code quite easily so that you play against the bot if wanted. 
+
+Nothing fancy! Just messing around. 
